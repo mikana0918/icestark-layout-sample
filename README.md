@@ -21,6 +21,7 @@ see: https://micro-frontends.ice.work/docs/guide/use-layout/vue
 ```bash
 $ git clone https://github.com/mikana0918/icestark-layout-sample.git
 $ cd icestark-layout-sample
+$ yarn install
 $ yarn run dev
 ```
 
